@@ -1,0 +1,3 @@
+.ollama_cache/
+.ollama_web/
+completions_cache/
