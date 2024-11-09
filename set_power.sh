@@ -1,1 +1,1 @@
-sudo nvidia-smi -pl 240
+sudo nvidia-smi -pl 220

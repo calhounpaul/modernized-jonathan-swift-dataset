@@ -1,6 +1,6 @@
 import requests
 from typing import List, Dict, Union, Optional
-import json, hashlib, os
+import json, hashlib, os, time
 
 cache_dir = "completions_cache"
 if not os.path.exists(cache_dir):
@@ -49,6 +49,7 @@ def get_next_chat_response(
             with open(cache_filepath, "r") as file:
                 response = json.load(file)["response"]
                 print(f"Using cached response from {cache_filename}")
+                response["cached"] = True
                 return response
         except FileNotFoundError:
             pass
@@ -68,11 +69,13 @@ def get_next_chat_response(
         
     try:
         # Make the API call
+        start_time = time.time()
         response = requests.post(api_url, json=payload)
         response.raise_for_status()
-        
+        time_delta = time.time() - start_time
         # Parse and return the response
         response = response.json()
+        response["time_delta"] = time_delta
         with open(cache_filepath, "w") as file:
             json.dump({
                 "request": payload,
