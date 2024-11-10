@@ -3163,5 +3163,27 @@
             "modernized": "As a result, the Dissenters' only remaining objective for now is to safeguard their privileges; with this in mind, I shall take the liberty of offering them some counsel.",
             "notes": "* Maintained the direct connection to the previous paragraph by using \"As a result\" to indicate a consequence of the previously described circumstances.\n* Preserved the original meaning and structure:\n\t1. Identified the Dissenters' sole remaining goal (\"no game left\" \u2192 \"only remaining objective\").\n\t2. Defined this goal as safeguarding their privileges (\"secure their indulgence\" \u2192 \"safeguard their privileges\", with \"privileges\" being a consistent interpretation of \"indulgence\" from previous paragraphs).\n\t3. Introduced the author's forthcoming advice using similar language (\"I will be so bold to offer\" \u2192 \"I shall take the liberty of offering\")."
         }
+    ],
+    [
+        {
+            "original": "Having already written three letters upon so disagreeable a subject as Mr. Wood and his halfpence; I conceived my task was at an end: But I find, that cordials must be frequently applied to weak constitutions, political as well as natural.",
+            "modernized": "Having already written three letters on the unpleasant topic of Mr. Wood and his halfpence, I thought my task was complete. However, I have found that stimulants must be frequently administered to fragile systems, whether they be political or physical in nature.",
+            "notes": "* I've kept \"halfpence\" in its original form, as it's a specific historical unit of currency, to maintain accuracy.\n* The phrase \"weak constitutions\" has been preserved with its dual implication (political and natural), as the author intended, to convey the parallel between physical health and the stability of political systems."
+        },
+        {
+            "original": "A people long used to hardships, lose by degrees the very notions of liberty, they look upon themselves as creatures at mercy, and that all impositions laid on them by a stronger hand, are, in the phrase of the Report, legal and obligatory.",
+            "modernized": "A population long accustomed to hardships gradually loses even the concept of liberty; they come to view themselves as beings at the mercy of others, and perceive any burdens imposed upon them by a more powerful authority as, in the words of the Report, \"legal and obligatory\".",
+            "notes": "* I've maintained the connection to the previous paragraph's theme of fragile systems, implying that the population's resilience has been eroded.\n* The phrase \"in the phrase of the Report\" has been updated to \"in the words of the Report\" for modern clarity, while preserving the original intent of referencing a specific document."
+        },
+        {
+            "original": "Hence proceeds that poverty and lowness of spirit, to which a kingdom may be subject as well as a particular person.",
+            "modernized": "This is the source of the poverty and lowliness of spirit to which an entire kingdom can succumb, just as easily as an individual.",
+            "notes": "* I've preserved the direct connection to the previous paragraph by maintaining the implied causal relationship (\"Hence proceeds\" -> \"This is the source of\"), indicating that the described state of mind (from the previous paragraph) leads to this outcome.\n* The phrase \"lowness of spirit\" has been kept in its original form, as it's a poetic/18th-century way of expressing a sense of collective or national morale/spirit; modernizing it might lose some of the author's intended nuance."
+        },
+        {
+            "original": "And when Esau came fainting from the field at the point to die, it is no wonder that he sold his birthright for a mess of pottage.",
+            "modernized": "Similarly, when someone like Esau returns exhausted from a struggle for survival on the brink of collapse, it's hardly surprising that they would surrender their most valuable entitlements for something as basic as a humble meal.",
+            "notes": "* I've maintained the direct connection to the previous paragraph by using \"Similarly\", implying a continuation of the idea that desperation (poverty and lowness of spirit) can lead to compromising one's valuable assets.\n* The biblical reference to Esau (Esau is an 18th-century variant spelling of Esau, also known as Esau in some translations, but more commonly referred to as Esau's twin brother's adversary, or simply as 'the' Esau being a reference to the biblical figure who sold his birthright for a meal) has been preserved, as it's a specific allusion meant to convey the gravity of sacrificing one's invaluable rights for immediate relief.\n* \"at the point to die\" has been rephrased to \"on the brink of collapse\" for modern clarity, while preserving the original intent of conveying extreme desperation.\n* \"a mess of pottage\" has been rephrased to \"a humble meal\" for modern understanding, as \"pottage\" is an archaic term for a thick soup or stew."
+        }
     ]
 ]
