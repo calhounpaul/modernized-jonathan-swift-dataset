@@ -3104,5 +3104,64 @@
             "modernized": "After a temporary stay to establish order in Normandy, the King returned to England with his brother, whom he then sent as a prisoner to Cardiff Castle, with instructions that he be treated favourably, which were indeed followed for some time; however, upon being accused of attempting to escape (whether genuinely or falsely) he was subjected to having his eyes put out with a burning basin, on the King's explicit orders; in this wretched state, he survived for twenty-six years.",
             "notes": "* I maintained the original phrase \"on the King's express commands\" as \"on the King's explicit orders\" to preserve the sense of direct royal authority.\n* To enhance clarity, I rephrased \"in which miserable condition\" to \"in this wretched state\", while retaining the original emotional connotation."
         }
+    ],
+    [
+        {
+            "original": "Besides the large box in which I was usually carried, the queen ordered a smaller one to be made for me, of about twelve feet square and ten high, for the convenience of travelling, because the other was somewhat too large for Glumdalclitch's lap, and cumbersome in the coach.",
+            "modernized": "In addition to the large box typically used to transport me, the queen arranged for a smaller one to be constructed, measuring approximately twelve feet square and ten feet high, to facilitate travel, since the original box was slightly too large for Glumdalclitch's lap and proved cumbersome in the coach.",
+            "notes": "* I assumed \"square\" and \"high\" implied measurements of area (e.g., square footage) and height, respectively, and added \"feet\" to clarify, as this is how such dimensions are commonly expressed in modern English.\n* No changes were made to proper nouns (e.g., Glumdalclitch) or the overall sentence structure to maintain original meaning."
+        },
+        {
+            "original": "It was made by the same artist, whom I directed in the whole contrivance.",
+            "modernized": "The smaller box was crafted by the same artisan who had worked under my guidance on the entire original design.",
+            "notes": "* I considered the contextual connection to the previous paragraph, ensuring the modernized text maintains a clear link (e.g., referencing \"the smaller box\" for clarity).\n* \"Artist\" was replaced with \"artisan\" to better suit the context of craftsmanship and construction implied by \"made\" and \"design\".\n* \"Contrivance\" is an archaic spelling of \"contrivance\"; in modern English, this would typically be spelled as \"device\", \"apparatus\", or \"design\". I chose \"design\" for consistency with the described context of creating boxes."
+        },
+        {
+            "original": "This travelling closet was an exact square, with a window in the middle of three of the squares, and each window was latticed with iron wire on the outside, to prevent accidents in long journeys.",
+            "modernized": "This traveling enclosure was a perfect square, featuring a window at the center of three out of its four sides, with each window further reinforced on the exterior with iron wire latticework to prevent mishaps during extended travel.",
+            "notes": "* I maintained the direct connection to the previous paragraph by using \"This traveling enclosure\" (referencing the smaller box), although I slightly rephrased for clarity; the original text's term \"travelling closet\" might be less commonly understood in modern English.\n* To enhance clarity, I explicitly stated \"out of its four sides\" since a square has four equal sides, and the original text only mentions three having windows.\n* No changes were made to the technical description (e.g., \"iron wire latticework\") to preserve accuracy."
+        },
+        {
+            "original": "On the fourth side, which had no window, two strong staples were fixed, through which the person who carried me, when I had a mind to be on horseback, put a leathern belt, and buckled it about his waist.",
+            "modernized": "On the remaining side, which was windowless, two sturdy staples were securely attached, allowing the person carrying me - when I preferred to ride horseback - to thread a leather strap through them and fasten it around their waist with a buckle.",
+            "notes": "* I preserved the contextual flow by using \"the remaining side\" to imply the fourth side, as established in the previous paragraph.\n* Minor rephrasings were made for modern clarity:\n\t+ \"strong staples\" became \"sturdy staples\" (equivalent meaning, slightly more contemporary phrasing).\n\t+ \"put a leathern belt\" was rephrased as \"thread a leather strap\" for clearer action description.\n\t+ \"buckled it about his waist\" was modernized to \"fasten it around their waist with a buckle\", maintaining the original meaning while using more current language; also, \"their\" replaces \"his\" to use a more neutral pronoun (since the text doesn't specify the carrier's gender)."
+        },
+        {
+            "original": "This was always the office of some grave, trusty servant, in whom I could confide, whether I attended the king and queen in their progresses, or were disposed to see the gardens, or pay a visit to some great lady or minister of state in the court; for I soon began to be known and esteemed among the greatest officers, I suppose more on account of their majesties' favor than any merit of my own.",
+            "modernized": "This responsibility always fell to a dependable, trusted servant, in whom I had confidence, whether I was accompanying the king and queen on their royal tours, wished to view the gardens, or paid visits to prominent ladies or high-ranking state ministers at court; for I quickly gained recognition and esteem among the highest officials, likely due more to Their Majesties' favor towards me than any personal merit of my own.",
+            "notes": "* Contextual flow was preserved by maintaining the logical connection to the previous paragraph's description of being carried.\n* Minor adjustments were made for clarity and modernity:\n\t+ \"office\" (in this context, a task) was rephrased as \"responsibility\" for more contemporary language.\n\t+ \"grave, trusty servant\" became \"dependable, trusted servant\" (equivalent meaning, slightly updated phrasing).\n\t+ \"I could confide\" was modernized to \"in whom I had confidence\" for clearer expression.\n\t+ \"progresses\" is an older term for \"royal tours\" or \"royal progresses\"; the modernized text uses the latter for better understanding.\n\t+ \"I suppose\" remains unchanged, as it still conveys the author's humble tone and uncertainty.\n\t+ \"Their Majesties'\" retains its original capitalization and formatting to maintain respect and formality."
+        }
+    ],
+    [
+        {
+            "original": "It is the part of wise men to conceal their passions, when they are not in circumstances of exerting them to purpose: the arts of getting power, and preserving indulgence, are very different.",
+            "modernized": "It is the trait of wise individuals to keep their passions in check when they are not in situations where utilizing them would serve a purpose; the strategies for acquiring power and maintaining privilege are distinctly different.",
+            "notes": "* No significant alterations were required, as the original text's phrasing is relatively concise and modern-sounding.\n* \"Indulgence\" was retained as \"privilege\" to maintain the original meaning, but if an alternative interpretation of \"indulgence\" (e.g., tolerance) is intended, \"maintaining tolerance\" could be a suitable substitute."
+        },
+        {
+            "original": "For the former, the reasonable hopes of the Dissenters, seem to be at an end; their comrades, the Whigs and Freethinkers, are just in a condition proper to be forsaken; and the Parliament, as well as the body of the people, will be deluded no longer.",
+            "modernized": "As for acquiring power, the reasonable hopes of the Dissenters appear to have reached an end; their allies, the Whigs and Freethinkers, are now in a state where abandonment is likely; and neither Parliament nor the general populace will be deceived any longer.",
+            "notes": "* \"Dissenters\", \"Whigs\", and \"Freethinkers\" were left unchanged, as they refer to specific historical groups or ideologies, maintaining their original context.\n* Considered the direct connection to the previous paragraph, the modernized text assumes a continuation of the author's discussion on power dynamics, informing the tone and word choices (e.g., \"acquiring power\" as a contextual introduction)."
+        },
+        {
+            "original": "Besides, it sometimes happens for a cause to be exhausted and worn out, as that of the Whigs in general, seems at present to be: the nation has had enough of it.",
+            "modernized": "Furthermore, it occasionally occurs that a cause becomes depleted and played out, as is currently the case with the Whigs' overall platform, which now appears to have exhausted the nation's patience.",
+            "notes": "* Maintained the direct connection to the previous paragraph by using \"Furthermore\" to indicate continuation of the author's line of thought.\n* Preserved the original implication that the Whigs' cause has reached a point of saturation or fatigue, using phrases like \"depleted and played out\" and \"exhausted the nation's patience\" to convey this notion. \n* No changes were made to \"Whigs\", as it retains its original historical and contextual significance."
+        },
+        {
+            "original": "It is as vain to hope restoring that decayed interest, as for a man of sixty to talk of entering on a new scene of life, that is only proper for youth and vigour.",
+            "modernized": "Similarly, attempting to revive that waned interest is just as futile as a sixty-year-old contemplating a fresh start in life, an endeavor better suited to the energy and vitality of one's younger years.",
+            "notes": "* Maintained the direct connection to the previous paragraph by using \"Similarly\" to indicate a continued parallel between ideas.\n* Preserved the original metaphor, ensuring the modernized text still conveys the author's notion that:\n\t1. Reviving the decayed interest is futile.\n\t2. The futility is likened to an age-related mismatch (youthful pursuits vs. advanced age).\n* Minor rephrasing enhanced clarity while adhering to the original meaning and figurative language."
+        },
+        {
+            "original": "New circumstances and new men must arise, as well as new occasions, which are not like to happen in our time.",
+            "modernized": "Instead, new circumstances, new individuals, and fresh opportunities would need to emerge, all of which are unlikely to occur within our current era.",
+            "notes": "* Maintained the direct connection to the previous paragraph by implying a contrast (\"Instead\") with the previously described futile endeavor.\n* Preserved the original sequence and emphasis on the trio of necessary emergences:\n\t1. New circumstances\n\t2. New individuals (originally \"new men\", modernized for gender neutrality)\n\t3. Fresh opportunities (originally \"new occasions\")\n* The phrase \"unlikely to occur within our current era\" is a nuanced rephrasing of \"not like to happen in our time\", conveying the same sense of improbability."
+        },
+        {
+            "original": "So that the Dissenters have no game left, at present, but to secure their indulgence: in order to which, I will be so bold to offer them some advice.",
+            "modernized": "As a result, the Dissenters' only remaining objective for now is to safeguard their privileges; with this in mind, I shall take the liberty of offering them some counsel.",
+            "notes": "* Maintained the direct connection to the previous paragraph by using \"As a result\" to indicate a consequence of the previously described circumstances.\n* Preserved the original meaning and structure:\n\t1. Identified the Dissenters' sole remaining goal (\"no game left\" \u2192 \"only remaining objective\").\n\t2. Defined this goal as safeguarding their privileges (\"secure their indulgence\" \u2192 \"safeguard their privileges\", with \"privileges\" being a consistent interpretation of \"indulgence\" from previous paragraphs).\n\t3. Introduced the author's forthcoming advice using similar language (\"I will be so bold to offer\" \u2192 \"I shall take the liberty of offering\")."
+        }
     ]
 ]
