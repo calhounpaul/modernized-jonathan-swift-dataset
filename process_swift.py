@@ -48,9 +48,13 @@ def get_next_chat_response(
         try:
             with open(cache_filepath, "r") as file:
                 response = json.load(file)["response"]
-                print(f"Using cached response from {cache_filename}")
-                response["cached"] = True
-                return response
+                if "GGG" not in response["message"]["content"]:  #strange failure case
+                    print(f"Using cached response from {cache_filename}")
+                    response["cached"] = True
+                    return response
+                else:
+                    #delete the cache file
+                    os.remove(cache_filepath)
         except FileNotFoundError:
             pass
     # Construct the API endpoint URL
